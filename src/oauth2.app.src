@@ -1,0 +1,15 @@
+{application, oauth2, [
+{description, "Hello Erlang!"},
+{vsn,"0.1.0"},
+{modules,[]},
+{registered,[]},
+{applications,[
+kernel,
+stdlib,
+mnesia,
+jiffy,
+cowboy
+]},
+{mod,{oauth2_app,[]}},
+{env,[]}
+]}.

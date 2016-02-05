@@ -1,0 +1,4 @@
+-name oauth2@127.0.0.1
+-setcookie oauth2
+-heart
+-mnesia dir '"/var/tmp"'

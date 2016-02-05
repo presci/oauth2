@@ -1,0 +1,13 @@
+.eunit
+deps
+*.o
+*.beam
+*.plt
+erl_crash.dump
+ebin
+rel/oauth2_release
+.concrete/DEV_MODE
+.rebar
+_rel
+*~
+.erlang.mk*
